@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Throw Away Your Mask",
+  "base_artist": "Lyn",
+  "createdAt": "2026-03-10T13:09:29.808664Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Throw Away Your Mask",
+      "artist": "Lollia",
+      "has_synced": false,
+      "path": "select/01_Throw_Away_Your_Mask_Lollia.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Throw Away Your Mask",
+      "artist": "Persona",
+      "has_synced": false,
+      "path": "select/02_Throw_Away_Your_Mask_Persona.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Throw Away Your Mask",
+      "artist": "Lollia",
+      "has_synced": true,
+      "path": "select/03_Throw_Away_Your_Mask_Lollia.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Throw Away Your Mask",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/04_Throw_Away_Your_Mask_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Throw Away Your Mask",
+      "artist": "Lollia/Sleeping Forest",
+      "has_synced": true,
+      "path": "select/05_Throw_Away_Your_Mask_Lollia_Sleeping_Forest.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Throw Away Your Mask",
+      "artist": "Lyn",
+      "has_synced": true,
+      "path": "select/06_Throw_Away_Your_Mask_Lyn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Throw Away Your Mask",
+      "artist": "FamilyJules7x",
+      "has_synced": false,
+      "path": "select/07_Throw_Away_Your_Mask_FamilyJules7x.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Throw Away Your Mask",
+      "artist": "Lollia, Sleeping Forest",
+      "has_synced": true,
+      "path": "select/08_Throw_Away_Your_Mask_Lollia,_Sleeping_Forest.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Throw Away Your Mask",
+      "artist": "Lollia feat. Sleeping Forest",
+      "has_synced": true,
+      "path": "select/09_Throw_Away_Your_Mask_Lollia_feat._Sleeping_Forest.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Throw Away Your Mask",
+      "artist": "Sapphire",
+      "has_synced": true,
+      "path": "select/10_Throw_Away_Your_Mask_Sapphire.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Throw Away Your Mask",
+      "artist": "Atlus",
+      "has_synced": true,
+      "path": "select/11_Throw_Away_Your_Mask_Atlus.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Throw Away Your Mask",
+      "artist": "目黒将司",
+      "has_synced": true,
+      "path": "select/12_Throw_Away_Your_Mask_目黒将司.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Throw Away Your Mask",
+      "artist": "ATLUS",
+      "has_synced": true,
+      "path": "select/13_Throw_Away_Your_Mask_ATLUS.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Throw Away Your Mask - Queen Side",
+      "artist": "FamilyJules7x",
+      "has_synced": false,
+      "path": "select/14_Throw_Away_Your_Mask_-_Queen_Side_FamilyJules7x.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Throw Away Your Mask",
+      "artist": "Lyn",
+      "has_synced": false,
+      "path": "select/pl_01_Throw_Away_Your_Mask_Lyn.txt"
+    }
+  ]
+}
